@@ -3,13 +3,13 @@
 Preview Link: https://seya101.github.io/boostrap-v5-sass/
 
 ### Resources ###
-#🔗 SASS
+######🔗 SASS
 <br/>
-#🔗 Bootstrap 5 
+######🔗 Bootstrap 5 
 <br/>
-#🔗 Google fonts
+######🔗 Google fonts
 <br/>
-#🔗 Fontawesome
+######🔗 Fontawesome
 <br/>
-#🔗 [Create SVG Waves:](https://getwaves.io/)
+######🔗 [Create SVG Waves](https://getwaves.io/)
 
