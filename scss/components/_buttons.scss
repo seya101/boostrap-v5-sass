@@ -27,7 +27,9 @@
     }
 
     &:hover {
-        @include gradient;
+        // @include gradient;
+        // background:linear-gradient(to right,rgba($gray-500,0.95),rgba($gray-700,0.95));
+        background-color: $gray-500;
         color: $white;
 
         span {
